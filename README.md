@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building small frontend projects using , Tailwind CSS, JavaScript, and APIs (like currency converters and validators).<br><br>frontend projects, open-source UI components, or simple JavaScript/React apps.<br><br>Improving JavaScript logic, API integration, and best practices in React projects.<br><br>JavaScript (advanced concepts), React js, Tailwind CSS, and working with APIs.<br><br>HTML, CSS, Tailwind, JavaScript Concepts, frontend projects, and learning web development as a beginner.<br><br>I enjoy turning simple ideas into real web projects and learning by building. 🚀
+Building frontend projects using , Tailwind CSS, JavaScript, and APIs (like currency converters and validators).<br><br>frontend projects, open-source UI components, or simple JavaScript/React apps.<br><br>Improving JavaScript logic, API integration, and best practices in React projects.<br><br>JavaScript (advanced concepts), React js, Tailwind CSS, and working with APIs.<br><br>HTML, CSS, Tailwind, JavaScript Concepts, frontend projects, and learning web development as a beginner.<br><br>I enjoy turning simple ideas into real web projects and learning by building. 🚀
 
 
 ## 🌐 Socials:
