@@ -8,22 +8,12 @@
 
 <br/>
 
-![Location](https://img.shields.io/badge/Location-Jamshoro,_Pakistan-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
-
-<br/>
-
 <a href="https://wariscodes.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://inapp.app/wariscodes/linkedin"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:bwaris439@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/MuhammadWaris-55"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://x.com/WarisCodes"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://www.instagram.com/wariss_1"><img src="https://img.shields.io/badge/Instagram-6D28D9?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=MuhammadWaris-55&style=flat-square&color=8b5cf6&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/MuhammadWaris-55?style=flat-square&color=6d28d9&label=Followers)
-![Stars](https://img.shields.io/github/stars/MuhammadWaris-55?style=flat-square&color=4c1d95&label=Stars)
 
 </div>
 
