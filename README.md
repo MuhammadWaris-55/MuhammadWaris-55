@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Muhammad%20Waris&fontSize=48&fontColor=B39DFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20MERN%20%7C%20TypeScript&descAlignY=58&descSize=18&descColor=C9C2F0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Muhammad%20Waris&fontSize=48&fontColor=B39DFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=C9C2F0" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+FlickZone+%E2%80%94+a+production-grade+MERN+backend;Full+Stack+Developer+%7C+Node.js+%2B+Express+%2B+MongoDB;Software+Engineering+Student+at+MUET+Jamshoro;Learning+in+Public+%7C+TypeScript+%7C+System+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+FlickZone+%E2%80%94+a+production-grade+MERN+backend;Full+Stack+Developer+%7C+Node.js+%2B+Express+%2B+MongoDB;Learning+in+Public+%7C+TypeScript+%7C+System+Design" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Education](https://img.shields.io/badge/B.E._Software_Engineering-MUET_Jamshoro-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Jamshoro,_Pakistan-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
@@ -32,19 +31,11 @@
 
 ## <img src="https://media.giphy.com/media/WFZvB878G4Uv6/giphy.gif" width="28"/> About Me
 
-```yaml
-engineer:
-  name: "Muhammad Waris"
-  role: "Full Stack Software Engineer"
-  focus: ["Backend Architecture", "MERN Stack", "TypeScript", "System Design"]
-  currently_building: "FlickZone — production-grade YouTube-like backend"
-  studying: "Designing Data-Intensive Applications (DDIA)"
-  philosophy: "Ship in public, document every milestone, engineer for scale."
-```
+I'm a full stack developer who enjoys building clean, well-structured web applications from the ground up. I focus on writing scalable backend systems, thoughtful API design, and interfaces that feel simple and intuitive to use. I care about doing things properly — solid architecture, secure authentication, and code that's easy to maintain and extend over time.
 
-I'm a Software Engineering student at **Mehran University of Engineering and Technology (MUET)**, building deep expertise in backend systems and full stack product engineering. My work centers on designing scalable, secure, industry-standard APIs — from JWT authentication flows and aggregation pipelines to clean, testable architecture using `asyncHandler`, `ApiError`, and `ApiResponse` patterns. I pair hands-on system building with theory, currently studying *Designing Data-Intensive Applications* to sharpen my data engineering fundamentals.
+I like learning by building, documenting my progress, and sharing what I learn along the way.
 
-**🎯 Open To:** Full Stack / Backend Engineering Roles · Internships · Open Source Collaboration · Research Assistant Positions
+**🎯 Open To:** Full Stack / Backend Engineering Roles · Internships · Open Source Collaboration
 
 <br/>
 
@@ -74,12 +65,12 @@ I'm a Software Engineering student at **Mehran University of Engineering and Tec
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Backend Architecture** | ⬛⬛⬛⬛⬜ | Layered architecture, `asyncHandler`, `ApiError`/`ApiResponse` utilities, controller-service separation |
-| **Authentication & Security** | ⬛⬛⬛⬛⬜ | JWT access/refresh token flows, secure cookie handling, middleware-based auth guards |
-| **Database Design** | ⬛⬛⬛⬛⬜ | MongoDB/Mongoose schema modeling, aggregation pipelines, pagination at scale |
-| **API Design** | ⬛⬛⬛⬛⬜ | RESTful API design, Postman-tested endpoints, file uploads via Multer + Cloudinary |
-| **TypeScript** | ⬛⬛⬛⬜⬜ | Type annotations, union types, type guards, narrowing, utility types |
-| **Frontend Engineering** | ⬛⬛⬛⬜⬜ | React, Tailwind CSS, GSAP-driven animation and interaction design |
+| **Backend Development** | ⬛⬛⬛⬛⬜ | Building organized, scalable server-side applications with clean architecture |
+| **Authentication & Security** | ⬛⬛⬛⬛⬜ | Implementing secure, token-based user authentication and session handling |
+| **Database Design** | ⬛⬛⬛⬛⬜ | Designing efficient data models and queries for real-world applications |
+| **API Development** | ⬛⬛⬛⬛⬜ | Building and testing RESTful APIs with a focus on reliability and performance |
+| **TypeScript** | ⬛⬛⬛⬜⬜ | Writing type-safe, maintainable code for larger applications |
+| **Frontend Engineering** | ⬛⬛⬛⬜⬜ | Building responsive, interactive interfaces with modern UI libraries |
 
 </div>
 
@@ -96,13 +87,13 @@ A YouTube-inspired backend engineered with an industry-standard MERN architectur
 | Aspect | Details |
 |---|---|
 | **Stack** | Node.js · Express · MongoDB · Mongoose |
-| **Scale** | Paginated aggregation pipelines via `mongoose-aggregate-paginate-v2` |
-| **Performance** | Optimized aggregation pipelines for channel profiles & watch history |
-| **Security** | JWT access/refresh token authentication, secure cookie-based sessions |
-| **Impact** | Full controller suite: users, tweets, comments, subscriptions |
+| **Scale** | Paginated data handling for large collections |
+| **Performance** | Optimized queries for profiles and activity history |
+| **Security** | Secure, token-based authentication with session management |
+| **Impact** | Full feature set: users, posts, comments, subscriptions |
 | **Repository** | [github.com/MuhammadWaris-55](https://github.com/MuhammadWaris-55) |
 
-Designed around real production concerns — Cloudinary-backed media uploads, MongoDB Atlas integration, and custom aggregation pipelines (`getUserChannelProfile`, `getWatchHistory`) for subscription modeling. Every route is documented and verified in Postman before merge.
+Built around real production concerns — media uploads, cloud storage integration, and custom data pipelines for subscription modeling. Every route is documented and tested before merge.
 
 </details>
 
@@ -114,7 +105,7 @@ Designed around real production concerns — Cloudinary-backed media uploads, Mo
 |---|---|
 | **Stack** | React · Tailwind CSS · GSAP · Vite |
 | **Scale** | Single-page, scroll-driven marketing experience |
-| **Performance** | GSAP-optimized scroll animations for smooth 60fps rendering |
+| **Performance** | Smooth, optimized scroll animations |
 | **Security** | Static deployment, no exposed attack surface |
 | **Impact** | Fully responsive, immersive UI/UX |
 | **Repository** | [Live Demo](https://wariscodes.com) |
@@ -131,7 +122,7 @@ A cinematic landing page built to showcase advanced scroll-based motion design, 
 |---|---|
 | **Stack** | React · Tailwind CSS · Vite |
 | **Scale** | Component-driven UI with live coin cards |
-| **Performance** | Lightweight Vite build for fast load times |
+| **Performance** | Lightweight build for fast load times |
 | **Security** | Client-side only, no sensitive data handling |
 | **Impact** | Futuristic, fully responsive crypto UI |
 | **Repository** | [Live Demo](https://wariscodes.com) |
@@ -142,66 +133,21 @@ A modern crypto landing page featuring animated stat counters and live coin card
 
 <br/>
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"/> Experience
+## <img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="28"/> Current Focus
 
-**Full Stack Developer Intern** — ITSOLERA PVT LTD
-`Jan 2026 – Apr 2026 · Islamabad, Pakistan`
-
-Contributed to real-world MERN stack projects spanning frontend and backend, applying component-based architecture and relational/NoSQL database design in a professional team environment.
-
-- Built and consumed RESTful APIs and implemented authentication systems using the MERN stack
-- Applied component-based architecture and database design across full stack features
-- Collaborated using Git & GitHub in a professional engineering workflow
-
-`Node.js` `Express.js` `React` `MongoDB` `REST APIs` `Git`
-
-<br/>
-
-## <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="28"/> Leadership & Recognition
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| **Hackathon Coordinator** | Led and coordinated multiple university hackathons — managing teams, event flow, and participant engagement |
-
-</div>
-
-<br/>
-
-## <img src="https://media.giphy.com/media/L3z6BLPvpEIz9Xj7cM/giphy.gif" width="28"/> Coding Profiles
-
-<div align="center">
-
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-
-</div>
-
-<br/>
-
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="28"/> GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadWaris-55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C2F0" />
-<img height="165" src="https://streak-stats.demolab.com/?user=MuhammadWaris-55&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9C2F0" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadWaris-55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9C2F0" />
-
-</div>
-
-<br/>
-
-## <img src="https://media.giphy.com/media/xUOxfjsW3woQcs0Aworo/giphy.gif" width="28"/> GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MuhammadWaris-55&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
+```yaml
+current_focus:
+  learning:
+    - "TypeScript: type guards, narrowing, utility types"
+    - "Data Structures & Algorithms in JavaScript"
+  building:
+    - "FlickZone — production-grade MERN backend"
+  exploring:
+    - "Autonomous AI agent architectures"
+  open_to:
+    - "Full Stack / Backend Engineering roles"
+    - "Open source collaboration"
+```
 
 <br/>
 
@@ -220,26 +166,6 @@ Contributed to real-world MERN stack projects spanning frontend and backend, app
 <img src="https://raw.githubusercontent.com/MuhammadWaris-55/MuhammadWaris-55/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
-
-<br/>
-
-## <img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="28"/> Current Focus
-
-```yaml
-current_focus:
-  learning:
-    - "TypeScript: type guards, narrowing, utility types"
-    - "Designing Data-Intensive Applications (DDIA) — OLTP/OLAP, ETL/ELT"
-    - "Data Structures & Algorithms in JavaScript"
-  building:
-    - "FlickZone — production-grade MERN backend (users, tweets, comments, subscriptions)"
-  exploring:
-    - "Sharia-compliant investing & Pakistan Stock Exchange"
-    - "Autonomous AI agent architectures"
-  open_to:
-    - "Full Stack / Backend Engineering roles"
-    - "Open source collaboration"
-```
 
 <br/>
 
